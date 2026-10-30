@@ -4,10 +4,10 @@
     {
       "modelo": "toyota-allion-2010-2014",
       "color": "azul",
-      "version": 1,
-      "escenas": 1,
-      "bytes": 160498,
-      "sha256": "884a1a2451c835800300d98803d7fe7d6d667fce268325707d2a29566f129d6a",
+      "version": 2,
+      "escenas": 20,
+      "bytes": 2413410,
+      "sha256": "fe6c8bb01bcdccb6add34ee25aa188fc9a989cc203b6a2d9147bf1b6eecac701",
       "zip": "packs/toyota-allion-2010-2014/azul.zip",
       "miniatura": "packs/toyota-allion-2010-2014/azul.jpg"
     }
